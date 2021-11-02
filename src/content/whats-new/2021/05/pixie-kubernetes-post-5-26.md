@@ -1,5 +1,5 @@
 ---
-title: 'Instant Kubernetes observability with Pixie'
+title: 'Instant Kubernetes observability with Pixie' delete
 summary: 'Without updating code or sampling data'
 releaseDate: '2021-05-26'
 learnMoreLink: 'https://docs.newrelic.com/docs/full-stack-observability/get-started-auto-telemetry-pixie'
@@ -17,4 +17,4 @@ Pixie data helps you debug faster than ever before, giving you access to everyth
 2. Choose [**Guided install**](https://one.newrelic.com/launcher/nr1-core.home?pane=eyJuZXJkbGV0SWQiOiJucjEtY29yZS5ob21lLXNjcmVlbiJ9&cards%5B0%5D=eyJuZXJkbGV0SWQiOiJucjEtaW5zdGFsbC1uZXdyZWxpYy5ucjEtaW5zdGFsbC1uZXdyZWxpYyIsImFjdGlvbkluZGV4IjoxfQ==) or [**EU Guided install.**](https://one.eu.newrelic.com/launcher/nr1-core.home?pane=eyJuZXJkbGV0SWQiOiJucjEtY29yZS5ob21lLXNjcmVlbiJ9&cards%5B0%5D=eyJuZXJkbGV0SWQiOiJucjEtaW5zdGFsbC1uZXdyZWxpYy5ucjEtaW5zdGFsbC1uZXdyZWxpYyIsImFjdGlvbkluZGV4IjoxfQ==)
 3. Choose **Kubernetes**, and then follow the on-screen prompts.
 
-![Screen capture showing Kubernetes cluster explorer](./images/kubernetes-cluster-explorer.png "Screen capture showing Kubernetes cluster explorer")
+![Screen capture showing Kubernetes cluster explorer](./images/kubernetes-cluster-explorer.png "Screen capture showing Kubernetes cluster explorer")<img width="1082" alt="Screen Shot 2021-11-01 at 8 58 02 PM" src="https://user-images.githubusercontent.com/80060857/139773619-80654ccd-a678-4947-b732-3dce293a3749.png">
