@@ -1,5 +1,5 @@
 ---
-title: 'Instant Kubernetes observability with Pixie'
+title: 'Instant Kubernetes observability with Pixie' delete
 summary: 'Without updating code or sampling data'
 releaseDate: '2021-05-26'
 learnMoreLink: 'https://docs.newrelic.com/docs/full-stack-observability/get-started-auto-telemetry-pixie'
